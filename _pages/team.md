@@ -1,7 +1,7 @@
 ---
 title: "Hydroinformatics Group - Team"
 layout: gridlay
-excerpt: "Hydroinformatics Group: Team members"
+excerpt: "Hydroinformatics Group -- Team"
 sitemap: false
 permalink: /team/
 ---

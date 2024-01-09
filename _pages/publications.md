@@ -1,7 +1,7 @@
 ---
 title: "Hydroinformatics Group - Publications"
 layout: gridlay
-excerpt: "Hydroinformatics Group -- Publications."
+excerpt: "Hydroinformatics Group -- Publications"
 sitemap: false
 permalink: /publications/
 ---

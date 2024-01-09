@@ -38,7 +38,7 @@
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.E. Civil Engineering, University of Virginia
   education3: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
-  statement: Faria's dissertation applied data science approaches to better understanding transportation disruptions due to flooding. She is now a postdoctoral researcher at the Department of Engergy.
+  statement: Faria's dissertation applied data science approaches to better understanding transportation disruptions due to flooding. She is now a postdoctoral researcher at the Department of Energy.
 
 - name: R. Chase Dong
   photo: dong.jpg
@@ -47,7 +47,7 @@
   number_educ: 2
   education1: M.S. Civil Engineering, University of Virginia
   education2: B.S. Biological Systems Engineering, Virginia Tech University
-  statement: Chase's research was on BMP maintaince and reviewing the database VDOT is building to better track BMP maintence activiteis and costs.
+  statement: Chase's research was on BMP maintenance and reviewing the database VDOT is building to better track BMP maintenance activities and costs.
 
 - name: Ben Bowes, Ph.D.
   photo: bowes.jpg
@@ -55,7 +55,7 @@
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.E. Civil Engineering, University of Virginia
   education3: B.S. Environmental Science, Virginia Wesleyan College
-  statement: Ben studied urban water infrastructure, specifically coastal flooding, real-time flood warning, and smart stormwater management. He is now an engineeer at <a href="https://paradigmh2o.com/">Paradigm Envionmental</a>.
+  statement: Ben studied urban water infrastructure, specifically coastal flooding, real-time flood warning, and smart stormwater management. He is now an engineer at <a href="https://paradigmh2o.com/">Paradigm Environmental</a>.
 
 - name: Youngdon Choi, Ph.D.
   photo: choi.png
@@ -67,7 +67,7 @@
 
 - name: Ruchir Shah
   photo: shah.jpg
-  info: M.S. Student, Computer Engineeering
+  info: M.S. Student, Computer Engineering
   number_educ: 2
   education1: M.E. Computer Engineering, University of Virginia
   education1: B.S. Power Electronics Engineering, Gujarat Technological University, India
@@ -79,7 +79,7 @@
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
   education3: B.S. Civil Engineering, Wuhan University, China
-  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at <a href="https://oneconcern.com/en/">One Concern</a>.
+  statement: Yawen's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at <a href="https://oneconcern.com/en/">One Concern</a>.
 
 - name: Naomi Johnson
   photo: johnson.jpg
@@ -116,7 +116,7 @@
   photo: hameed.jpg
   number_educ: 1
   education1: B.S. Systems Engineering, University of Virginia
-  statement: Imaan designed an inexpensive, IoT rain measurement and data communication system. He is now a softare enigneer at <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>.
+  statement: Imaan designed an inexpensive, IoT rain measurement and data communication system. He is now a software engineer at <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>.
 
 - name: Danny Voce
   photo: voce.jpg

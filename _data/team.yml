@@ -11,9 +11,19 @@
   education3: BS, Civil Engineering, University of Virginia, 2001
   statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
 
+- name: Sergio A. Barboda, Ph.D.
+  photo: barboda.jpg
+  info: Postdoctoral Research Associate 
+  email: rqt5kh@virginia.edu
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, Brigham Young University, 2023, Advisor Dr. Norm Jones
+  education2: M.S. Water Resources Engineering, National University of Colombia, 2014
+  education3: B.S. Agricultural Engineering, National University of Colombia, 2009 
+  statement: Sergio’s dissertation focused on groundwater resource assessment utilizing remote sensing data and groundwater modeling. He has since taken on the role of a postdoctoral researcher at the UVA Link Lab's Hydroinformatics group. 
+
 - name: Victor Ariel Leal Sobral
   photo: sobral.jpg
-  info: Ph.D. Candidate, Computer Engineeering
+  info: Ph.D. Candidate, Computer Engineering
   email: vas4d@virginia.edu
   number_educ: 3
   education1: M.S. Electronics and Applied Physics, ENSICAEN, France
@@ -74,16 +84,6 @@
   education1: M.S. Civil Engineering, Seoul National University, Republic of Korea
   education2: B.S. Civil Engineering, Seoul National University, Republic of Korea
   statement: Jiwoo is studying the impacts of climate change on urban coastal flooding.
-
-- name: Sergio A. Barboda, Ph.D.
-  photo: barboda.jpg
-  info: Postdoctoral Research Associate 
-  email: rqt5kh@virginia.edu
-  number_educ: 3
-  education1: Ph.D. Civil Engineering, Brigham Young University, 2023, Advisor Dr. Norm Jones
-  education2: M.S. Water Resources Engineering, National University of Colombia, 2014
-  education3: B.S. Agricultural Engineering, National University of Colombia, 2009 
-  statement: Sergio’s dissertation focused on groundwater resource assessment utilizing remote sensing data and groundwater modeling. He has since taken on the role of a postdoctoral researcher at the UVA Link Lab's Hydroinformatics group. 
 
 - name: Jiseon Song
   photo: song.jpg

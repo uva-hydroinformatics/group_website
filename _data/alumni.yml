@@ -50,7 +50,7 @@
   statement: Chase's research was on BMP maintaince and reviewing the database VDOT is building to better track BMP maintence activiteis and costs.
 
 - name: Ben Bowes, Ph.D.
-  photo: bowes-1.jpg
+  photo: bowes.jpg
   number_educ: 3
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.E. Civil Engineering, University of Virginia
@@ -74,7 +74,7 @@
   statement: Ruchir was a member of Cyber-Physical Systems NRT program and did research on deploying environmental sensors for engineering robust real-time IoT-based flood warning system. He is now with <a href="https://www.ey.com/en_us">EY</a>.
 
 - name: Yawen Shen, Ph.D.
-  photo: Yawen-1.jpg
+  photo: shen.jpg
   number_educ: 3
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
@@ -89,14 +89,14 @@
   statement: Naomi researched using image segmentation in order to identify the areal extent and depth of flood waters. She now works at <a href="https://www.microsoft.com/en-us/">Microsoft</a>.
 
 - name: Sean Allen
-  photo: Allen.jpg
+  photo: allen.jpg
   number_educ: 2
   education1: M.E., Civil Engineering with focus in Cyber-Physical Systems, University of Virginia
   education2: B.S., Civil Engineering, University of Virginia
   statement: Sean explored the Things Network as a way to connect smart devices for stormwater monitoring. He now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Gina O'Neil, Ph.D.
-  photo: gina-1.jpg
+  photo: oneil.jpg
   number_educ: 3
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, University of Virginia
@@ -141,7 +141,7 @@
   statement: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. After serving as a postdoc at UVA, she joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as part of their resilience group.
 
 - name: Meredith Sutton
-  photo: Sutton3.jpg
+  photo: sutton.jpg
   number_educ: 1
   education1: B.S., Civil Engineering, University of Virginia
   statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages. She is now a PhD student at the University of Nebraska-Lincoln and an NSF GRFP awardee.
@@ -153,13 +153,13 @@
   statement: Edward designed inexpensive, durable rainfall measurement devices for flood detection. He is now a software developer at <a href="https://ccri.com/">Commonwealth Computer Research, Inc.</a>
 
 - name: Mary-Michael Robertson
-  photo: marymichael.jpg
+  photo: robertson.jpg
   number_educ: 1
   education1: B.S., Civil Engineering, University of Virginia
   statement: Mary-Michael researched remote sensing and GIS-based methods for wetland screening. She is now a graduate student in urban and environmental planning at UVA.
 
 - name: Rodney Hawkings
-  photo: Hawkins.jpg
+  photo: hawkins.jpg
   number_educ: 1
   education1: B.S., Engineering, Saint Augustine's University, Raleigh, NC
   statement: Rodney was a summer research exploring environmental justice issues related to sea level rise and flooding in coastal communities.

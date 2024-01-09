@@ -11,6 +11,15 @@ permalink: /projects/
 Below are selected current and past  funded resarch projects that are representative of our group's work.
 
 <hr>
+#### <a href='https://www.urbanc5.org/'>CoPe UrbanC5</a>: Enhancing Resilience and Equity in Urban Coastal Communities through the Co-Generation of Community Capitals 
+
+##### Sponsor - National Science Foundation (Award #2209139)
+##### Role - PI
+##### Co-PIs - Ashley Haines, Sharon Alston, Phoebe Crisman, and Jennifer Roe
+
+The overarching goal of this project is to create transferable methods for enhancing resilience and equity in urban coastal communities. While the goal is to produce transferable methods, the project focuses on communities in Hampton Roads region of Virginia ? one of the most vulnerable populations to sea level rise in the United States ? as community partners. The hub structure of the project emphasizes the co-generation of community capitals among a diverse team of researchers in partnership with community stakeholders. Community capitals is a term inclusive of both natural-built capitals, such as sea walls, living shorelines, and green stormwater infrastructure, and human-social capitals, such as health, well-being, agency, and empowerment. The overarching hypothesis is that both forms of community capitals must be advanced in synergy in order to have resilient and equitable urban coastal communities. The research plan operates on two spatial scales, regional and local, because both scales are critical for building community capitals. On the regional scale, the research tasks are to create a geospatial data inventory, a system-wide flood model, and equitable policies for regional climate resilience in urban communities. On the local scale, the research tasks are to empower and engage communities that have been historically marginalized in the climate resilience conversation, build community capital through workshops that result in co-designed stormwater infrastructure, and measure the co-benefits of green stormwater infrastructure for mental health and well-being. Work across the two scales is connected through shared resources and feedback between the local community and broader-scale regional efforts.
+
+<hr>
 #### dMIST: Data-driven Management for Interdependent Stormwater and Transportation Systems
 
 ##### Sponsor - National Science Foundation

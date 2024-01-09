@@ -9,7 +9,7 @@
   education1: Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
   education3: BS, Civil Engineering, University of Virginia, 2001
-  statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
+  statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
 
 - name: Victor Ariel Leal Sobral
   photo: sobral.jpg
@@ -21,21 +21,14 @@
   education3: B.S. Electrical Engineering, Universidade Federal da Bahia, Brazil
   statement: Victor is working on the design of self-powered IoT systems for industrial, water quality and flood monitoring applications. He is co-advised by Prof. Brad Campbell.
 
-- name: Jake Nelson
-  photo: nelson.jpg
-  info: Ph.D. Student, Civil Engineering
-  email: jn8vc@virginia.edu
-  number_educ: 2
-  education1: M.S. CEE, Brigham Young University
-  education2: B.S. CEE, Brigham Young Univeristy
-  statement: Jake is part of the Cyber-Physical Systems NRT program and his research is focusing on smart stormwater systems. He is also researching nutrient credit markets as a means for improving water quality.
-
 - name: Natalie Lerma
   photo: lerma.jpg
   info: Ph.D. Student, Civil Engineering
   email: nrl5fh@virginia.edu
-  number_educ: 1
+  number_educ: 3
   education1: B.S. Ocean Engineering, Texas A&M University - Galveston
+  education2: B.S. Offshore and Coastal Systems Engineering, Texas A&M University - Galveston 
+  education3: Minors in Mathematics and Maritime Administration, Texas A&M University - Galveston 
   statement: Natalie is part of the Cyber-Physical Systems NRT program and her research is focusing on coastal urban flooding.
 
 - name: Ciara Horne
@@ -63,15 +56,15 @@
   education1: M.S. Environmental and Water Resources Engineering, The University of Texas at Austin, TX, USA, 2020
   education2: B.S. Watershed Science, Colorado State University, CO, USA, 2018
   education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China, 2018
-  statement: Yidi is interested in studying natural hazards generally, with a specific focus on floods. He is currently working on curricular preparation in order to better define and structure his research.
+  statement: Yidi' research is focused on building a real-time flood monitoring system and applying it to enhance flood forecasting in urban environments.
 
-- name: Savannah Cummins
+- name: Savannah Lynn
   photo: cummins.jpg
   info: Ph.D. Student, Civil Engineering
   email: wnt6gp@virginia.edu
   number_educ: 1
   education1: B.S. Chemical Engineering, Auburn University
-  statement: Savannah's research is considering ways to add an equity component to decision-making models that help solve water management problems and better serve marginalized communities.
+  statement: Savannah is interested in coastal communities grappling with the impacts of climate change, including rising sea levels and heightened rainfall intensity. She explores the role of modeling and IoT in fortifying stormwater management systems, aiming to empower these communities to proactively address and adapt to future challenges.
 
 - name: Jiwoo Jeong, P.E.
   photo: jeong.jpg
@@ -81,3 +74,22 @@
   education1: M.S. Civil Engineering, Seoul National University, Republic of Korea
   education2: B.S. Civil Engineering, Seoul National University, Republic of Korea
   statement: Jiwoo is studying the impacts of climate change on urban coastal flooding.
+
+- name: Sergio A. Barboda, Ph.D.
+  photo: sergio.jpg
+  info: Postdoctoral Research Associate 
+  email: rqt5kh@virginia.edu
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, Brigham Young University, 2023, Advisor Dr. Norm Jones
+  education2: M.S. Water Resources Engineering, National University of Colombia, 2014
+  education3: B.S. Agricultural Engineering, National University of Colombia, 2009 
+  statement: Sergio’s dissertation focused on groundwater resource assessment utilizing remote sensing data and groundwater modeling. He has since taken on the role of a postdoctoral researcher at the UVA Link Lab's Hydroinformatics group. 
+
+- name: Jiseon Song
+  photo: Jiseon.jpg
+  info: Ph.D. Student, Civil Engineering 
+  email: qkh6cy@virginia.edu
+  number_educ: 2
+  education1: M.S. Civil Engineering, Chungnam National University, 2018
+  education2: B.S. Civil Engineering, Chungnam National University, 2010
+  statement: Jiseon is interested in developing an Artificial Intelligence model for real-time urban inundation forecasting.  

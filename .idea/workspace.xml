@@ -1,120 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b5f883d-829b-4c37-a44b-0af61e0f2d81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publist.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publist.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/team_members.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/team_members.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/team.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/aboutwebsite.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/aboutwebsite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/allnews.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/allnews.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/aoa.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/aoa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pictures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pictures/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/research/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/vacancies.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/vacancies.html" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="4b5f883d-829b-4c37-a44b-0af61e0f2d81" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/news.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="publist.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/publist.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="669" lean-forward="true" selection-start-line="669" selection-end-line="669" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pictures_Leiden.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/pictures_Leiden.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="home.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_pages/home.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="555">
-                <caret line="37" column="85" selection-start-line="37" selection-start-column="85" selection-end-line="37" selection-end-column="85" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alumni.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/alumni.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="team_members.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/team_members.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2250">
-              <caret line="150" column="20" lean-forward="true" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="openings.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/openings.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/team.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,6 +27,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -145,6 +39,7 @@
     <option name="width" value="1957" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectId" id="2abikazkG6l0YGQN7cVjRMIDAkW" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,24 +69,12 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -202,6 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531761624505</updated>
+      <workItem from="1704593835503" duration="32000" />
     </task>
     <servers />
   </component>
@@ -232,11 +116,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">

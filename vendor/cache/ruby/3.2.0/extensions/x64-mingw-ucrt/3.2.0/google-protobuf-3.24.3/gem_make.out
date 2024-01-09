@@ -1,0 +1,52 @@
+current directory: C:/Users/savan/Documents/GitHub/group_website/vendor/cache/ruby/3.2.0/gems/google-protobuf-3.24.3/ext/google/protobuf_c
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/savan/Documents/GitHub/group_website/vendor/cache/ruby/3.2.0/gems/google-protobuf-3.24.3/ext/google/protobuf_c
+make DESTDIR\= sitearchdir\=./.gem.20230922-28580-hvfrza sitelibdir\=./.gem.20230922-28580-hvfrza clean
+
+current directory: C:/Users/savan/Documents/GitHub/group_website/vendor/cache/ruby/3.2.0/gems/google-protobuf-3.24.3/ext/google/protobuf_c
+make DESTDIR\= sitearchdir\=./.gem.20230922-28580-hvfrza sitelibdir\=./.gem.20230922-28580-hvfrza
+generating protobuf_c-x64-mingw-ucrt.def
+compiling protobuf.c
+compiling convert.c
+compiling defs.c
+compiling message.c
+message.c: In function 'Map_initialize_kwarg':
+message.c:513:24: warning: initialization discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+  513 |     upb_MiniTable* t = upb_MessageDef_MiniTable(map_init->val_type.def.msgdef);
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~
+message.c: In function 'MessageValue_FromValue':
+message.c:544:24: warning: initialization discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+  544 |     upb_MiniTable* t = upb_MessageDef_MiniTable(info.def.msgdef);
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~
+message.c: In function 'Message_initialize':
+message.c:660:22: warning: initialization discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+  660 |   upb_MiniTable* t = upb_MessageDef_MiniTable(self->msgdef);
+      |                      ^~~~~~~~~~~~~~~~~~~~~~~~
+compiling repeated_field.c
+compiling map.c
+map.c: In function 'Map_delete':
+map.c:470:26: warning: passing argument 1 of 'upb_Map_Delete' discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+  470 |   if (upb_Map_Delete(self->map, key_upb, &val_upb)) {
+      |                      ~~~~^~~~~
+In file included from defs.h:35,
+                 from protobuf.h:52,
+                 from convert.h:34,
+                 from map.c:31:
+ruby-upb.h:1420:38: note: expected 'upb_Map *' but argument is of type 'const upb_Map *'
+ 1420 | UPB_API bool upb_Map_Delete(upb_Map* map, upb_MessageValue key,
+      |                             ~~~~~~~~~^~~
+compiling ruby-upb.c
+compiling wrap_memcpy.c
+compiling ./third_party/utf8_range/naive.c
+compiling ./third_party/utf8_range/range2-neon.c
+compiling ./third_party/utf8_range/range2-sse.c
+linking shared-object google/protobuf_c.so
+
+current directory: C:/Users/savan/Documents/GitHub/group_website/vendor/cache/ruby/3.2.0/gems/google-protobuf-3.24.3/ext/google/protobuf_c
+make DESTDIR\= sitearchdir\=./.gem.20230922-28580-hvfrza sitelibdir\=./.gem.20230922-28580-hvfrza install
+/usr/bin/install -c -m 0755 protobuf_c.so ./.gem.20230922-28580-hvfrza/google
+
+current directory: C:/Users/savan/Documents/GitHub/group_website/vendor/cache/ruby/3.2.0/gems/google-protobuf-3.24.3/ext/google/protobuf_c
+make DESTDIR\= sitearchdir\=./.gem.20230922-28580-hvfrza sitelibdir\=./.gem.20230922-28580-hvfrza clean

@@ -1,9 +1,9 @@
 ---
-title: "Hydroinformatics Group - Vacancies"
+title: "Hydroinformatics Group - Projects"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Hydroinformatics Group -- Projects"
 sitemap: false
-permalink: /openings
+permalink: /openings/
 ---
 
 # Open positions

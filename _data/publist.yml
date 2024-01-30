@@ -13,40 +13,352 @@
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
 
-- title: "Hydrologic Model Sensitivity to Temporal Aggregation of Meteorological Forcing Data: A Case Study for the Contiguous United States"
+############################
+#2024
+############################
+- title: "A comparison of machine learning surrogate models of street-scale flooding in Norfolk, Virginia"
   image: blank.jpg
-  description: Journal of Hydrometeorology
-  date: 2022
-  authors: Van Beusekom, A. E., Hay, L. E., Bennett, A. R., Choi, Y.-D., Clark, M. P., Goodall, J. L., Li, Z., Maghami, I., Nijssen, B. and Wood, A. W.
+  description: Machine Learning with Applications, 15, 100518, doi:10.1016/j.mlwa.2023.100518
+  date: March 2024
+  authors: McSpadden, D., Goldenberg, S., Roy, B., Schram, M., Goodall, J.L., and Richter, H.
   link:
-    url: https://doi.org/
-    display: Final Article
+    url: https://doi.org/10.1016/j.mlwa.2023.100518
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Urban flood extent segmentation and evaluation from real-world surveillance camera images using deep convolutional neural network"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 173, 105939, doi:10.1016/j.envsoft.2023.105939
+  date: February 2024
+  authors: Wang, Y., Shen, Y., Salahshour, B., Cetin, M., Iftekharuddin, K., Tahvildari, N., Huang, G., Harris, D.K., Ampofo, K. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2023.105939
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Tracking the Cost of Maintaining Stormwater Best-Management Practice Facilities: The Role of Database Design and Data Entry Best Practices"
+  image: blank.jpg
+  description: Journal of Sustainable Water in the Built Environment, 10(1), doi:10.1061/JSWBAY.SWENG-506
+  date: February 2024
+  authors: Dong, R., Nelson, J.D., Cummins, S.L., and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1061/JSWBAY.SWENG-506
+    display: Final Article (open access)
   linkpdf:
-    pdf:     
+    pdf: https://uvahydroinformatics.org/files/Dong_JSWBE_2024_PrePrint.pdf    
     display: Preprint
   highlight: 0
 
+- title: "An extensible schema for capturing environmental model metadata: Implementation in the HydroShare online data repository"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 172, 105895, doi:10.1016/j.envsoft.2023.105895
+  date: January 2024
+  authors: Maghami, I., Morsy, M.M., Sadler, J.M., Horsburgh, J.S., Dash, P.K., Choi, Y., Chen, K., Seul, M., Black, S., Tarboton, D.G. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2023.105895
+    display: Final Article (open access)
+  highlight: 0
 
+- title: "HydroShare retrospective: Science and technology advances of a comprehensive data and model publication environment for the water science domain"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 172, 105902, doi:10.1016/j.envsoft.2023.105902
+  date: January 2024
+  authors: Tarboton, D.G., Ames, D.P., Horsburgh, J.S., Goodall, J.L., Couch, A., Hooper, R., Bales, J., Wang, S., Castronova, A., Seul, M. and Idaszak, R.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2023.105902
+    display: Final Article (open access)
+  highlight: 0
+
+############################
+#2023
+############################
+
+- title: "Assessing and improving the outcomes of nonpoint source water quality trading policies in urban areas: A case study in Virginia"
+  image: blank.jpg
+  description: Journal of Environmental Management, 345(1), doi:10.1016/j.jenvman.2023.118724
+  date: November 2023
+  authors: Saby, L., Herbst, R.S., Goodall, J.L., Nelson, J.D., Culver, T.B., Stephens, E., Marquis, C.M. and Band, L.E.
+  link:
+    url: https://doi.org/10.1016/j.jenvman.2023.118724
+    display: Final Article
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Saby_JEM_2023_PrePrint.pdf    
+    display: Preprint
+  highlight: 0
+
+- title: "Exploring the relationship between flood insurance claims, crowdsourced rainfall, and tide levels for coastal urban communities: Case study for the mid-Atlantic United States"
+  image: blank.jpg
+  description: Journal of Hydrology, 625, 130123, doi:10.1016/j.jhydrol.2023.130123
+  date: October 2023
+  authors: Chen, A.B., Goodall, J.L. and Quinn, J.D.
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2023.130123
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Comparing containerization-based approaches for reproducible computational modeling of environmental systems"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 167, 105760, doi:10.1016/j.envsoft.2023.105760
+  date: September 2023
+  authors: Choi, Y.D., Roy, B., Nguyen, J., Ahmad, R., Maghami, I., Nassar, A., Li, Z., Castronova, A.M., Malik, T., Wang, S. and Goodall, J.L
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2023.105760
+    display: Final Article 
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Choi_EMS_2023_Preprint.pdf    
+    display: Preprint
+  highlight: 0
+
+- title: "Building cyberinfrastructure for the reuse and reproducibility of complex hydrologic modeling studies"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 164, 105689, doi:10.1016/j.envsoft.2023.105689
+  date: June 2023
+  authors: Maghami, I., Van Beusekom, A., Hay, L., Li, Z., Bennett, A., Choi, Y., Nijssen, B., Wang, S., Tarboton, D. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2023.105689
+    display: Final Article 
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Maghami_EMS_2023_Preprint.pdf    
+    display: Preprint
+  highlight: 0
+
+- title: "A Cloud-Based Data Storage and Visualization Tool for Smart City IoT: Flood Warning as an Example Application"
+  image: blank.jpg
+  description: Smart Cities, 6(3), doi:10.3390/smartcities6030068
+  date: May 2023
+  authors: Leal Sobral, V.A., Nelson, J., Asmare, L., Mahmood, A., Mitchell, G., Tenkorang, K., Todd, C., Campbell, B. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.3390/smartcities6030068
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "pystorms: A simulation sandbox for the development and evaluation of stormwater control algorithms"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 162, 105635, doi:10.1016/j.envsoft.2023.105635
+  date: April 2023
+  authors: Rimer, S.P., Mullapudi, A., Troutman, S.C., Ewing, G., Bowes, B.D., Akin, A.A., Sadler, J., Kertesz, R., McDonnell, B., Montestruque, L. and Hathaway, J.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2023.105635
+    display: Final Article (open access)
+  highlight: 0
+
+############################
+#2022
+############################
+
+- title: "Sensitivity of Remotely Sensed Vegetation to Hydrologic Predictors across the Colorado River Basin, 2001-2019"
+  image: blank.jpg
+  description: Journal of the American Water Resources Association, 58(6), doi:10.1111/1752-1688.12965
+  date: December 2022
+  authors: Saby, L., McKee, K.L., Kansara, P., Goodall, J.L., Band, L.E. and Lakshmi, V.
+  link:
+    url: https://doi.org/10.1111/1752-1688.12965
+    display: Final Article
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Saby_JAWRA_2022_Preprint.pdf     
+    display: Preprint
+  highlight: 0
+
+- title: "Reinforcement learning-based real-time control of coastal urban stormwater systems to mitigate flooding and improve water quality"
+  image: blank.jpg
+  description: Environmental Science- Water Research & Technology, 58(1), doi:10.1039/D1EW00582K
+  date: October 2022
+  authors: Bowes, B.D., Wang, C., Ercan, M.B., Culver, T.B., Beling, P.A. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1039/D1EW00582K
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Predicting combined tidal and pluvial flood inundation using a machine learning surrogate model"
+  image: blank.jpg
+  description: Journal of Hydrology Regional Studies, 41, 101087, doi:10.1016/j.ejrh.2022.101087
+  date: June 2022
+  authors: Zahura, F.T. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1016/j.ejrh.2022.101087
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Flood resilience through crowdsourced rainfall data collection: Growing engagement faces non-uniform spatial adoption"
+  image: blank.jpg
+  description: Journal of Hydrology, 609, 127724, doi:10.1016/j.jhydrol.2022.127724
+  date: June 2022
+  authors: Chen, A.B., Goodall, J.L., Chen, T.D. and Zhang, Z.
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2022.127724
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Dynamic Modeling of Inland Flooding and Storm Surge on Coastal Cities under Climate Change Scenarios: Transportation Infrastructure Impacts in Norfolk, Virginia USA as a Case Study"
+  image: blank.jpg
+  description: Geosciences, 15(6), doi:10.3390/geosciences12060224
+  date: May 2022
+  authors: Shen, Y., Tahvildari, N., Morsy, M.M., Huxley, C., Chen, T.D. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.3390/geosciences12060224
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Quantification of compound flooding over roadway network during extreme events for planning emergency operations"
+  image: blank.jpg
+  description: Natural Hazards Review, 23(2), doi:10.1061/(ASCE)NH.1527-6996.0000524
+  date: May 2022
+  authors: Tahvildari, N., Abi Aad, M., Sahu, A., Shen, Y., Morsy, M., Murray-Tuite, P., Goodall, J.L., Heaslip, K. and Cetin, M.
+  link:
+    url: https://doi.org/10.1061/(ASCE)NH.1527-6996.0000524
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Hydrologic Model Sensitivity to Temporal Aggregation of Meteorological Forcing Data: A Case Study for the Contiguous United States"
+  image: blank.jpg
+  description: Journal of Hydrometeorology, 23(2), doi:10.1175/JHM-D-21-0111.1
+  date: February 2022
+  authors: Van Beusekom, A. E., Hay, L. E., Bennett, A. R., Choi, Y.-D., Clark, M. P., Goodall, J. L., Li, Z., Maghami, I., Nijssen, B. and Wood, A. W.
+  link:
+    url: https://doi.org/10.1175/JHM-D-21-0111.1
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "An Open‐Source Python Library for Varying Model Parameters and Automating Concurrent Simulations of the National Water Model"
+  image: blank.jpg
+  description: Journal of the American Water Resources Association, 58(1), doi:10.1111/1752-1688.12973
+  date: February 2022
+  authors: Raney, A., Maghami, I., Feng, Y., Mandli, K., Cohen, S. and Goodall, J.
+  link:
+    url: https://doi.org/10.1111/1752-1688.12973
+    display: Final Article (open access)
+  highlight: 0
+
+############################
+#2021
+############################
+
+- title: "Assessing trustworthiness of crowdsourced flood incident reports using Waze data: A Norfolk, Virginia case study"
+  image: blank.jpg
+  description: Transportation Research Record, 2675(12), doi:10.1177/03611981211031212
+  date: December 2021
+  authors: Praharaj, S., Zahura, F.T., Chen, T.D., Shen, Y., Zeng, L. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1177/03611981211031212
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Assessing the trustworthiness of crowdsourced rainfall networks: a reputation system approach"
+  image: blank.jpg
+  description: Water Resources Research, 57(12), doi:10.1029/2021WR029721
+  date: December 2021
+  authors: Chen, A.B., Behl, M. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1029/2021WR029721
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Anticipating and Adapting to the Future Impacts of Climate Change on the Health, Security and Welfare of Low Elevation Coastal Zone (LECZ) Communities in Southeastern USA"
+  image: blank.jpg
+  description: Journal of Marine Science and Engineering, 9(11), p.1196, doi:10.3390/jmse9111196
+  date: November 2021
+  authors: Allen, T., Behr, J., Bukvic, A., Calder, R.S., Caruson, K., Connor, C., D’Elia, C., Dismukes, D., Ersing, R., Franklin, R. and Goldstein, J.
+  link:
+    url: https://doi.org/10.3390/jmse9111196
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Nonpoint Source Water Quality Trading outcomes: Landscape-scale patterns and integration with watershed management priorities"
+  image: blank.jpg
+  description: Journal of Environmental Management, 294 p.112914, doi:10.1016/j.jenvman.2021.112914
+  date: September 2021
+  authors: Saby, L., Nelson, J.D., Band, L.E. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1016/j.jenvman.2021.112914
+    display: Final Article 
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Saby_JEM_2021_Preprint.pdf    
+    display: Preprint
+  highlight: 0
+
+- title: "Opportunities for crowdsourcing in urban flood monitoring"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 143 p.105124, doi:10.1016/j.envsoft.2021.105124
+  date: September 2021
+  authors: Helmrich, A.M., Ruddell, B.L., Bessem, K., Chester, M.V., Chohan, N., Doerry, E., Eppinger, J., Garcia, M., Goodall, J.L., Lowry, C. and Zahura, F.T.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2021.105124
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Estimating impacts of recurring flooding on roadway networks: a Norfolk, Virginia case study"
+  image: blank.jpg
+  description: Natural Hazards, 107:2363-87, doi:10.1007/s11069-020-04427-5
+  date: July 2021
+  authors: Praharaj, S., Chen, T.D., Zahura, F.T., Behl, M. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1007/s11069-020-04427-5
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Exploring the complementary relationship between solar and hydro energy harvesting for self-powered water monitoring in low-light conditions"
+  image: blank.jpg
+  description: Environmental Modelling & Software, 140, p.105032, doi:10.1016/j.envsoft.2021.105032
+  date: June 2021
+  authors: Maghami, I., Sobral, V.A., Morsy, M.M., Lach, J.C. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2021.105032
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Enhancing Efficacy of Water Quality Trading with Automation: A Case Study in Virginia’s Nutrient Trading Program"
+  image: blank.jpg
+  description: Journal of the American Water Resources Association, 57(3), doi:10.1111/1752-1688.12903
+  date: June 2021
+  authors: Saby, L., Goodall, J.L., Band, L.E., Bowes, B.D. and Fults, M.
+  link:
+    url: https://doi.org/10.1111/1752-1688.12903
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "A graduate curriculum in cyber-physical systems"
+  image: blank.jpg
+  description: IEEE Design & Test, 38(3), pp.112-120, doi:10.1109/MDAT.2020.3043376
+  date: June 2021
+  authors: Stankovic, J.A., Alemzadeh, H., Campbell, B., Lach, J., Feng, L., Fleming, C., Goodall, J., Odumosu, T., Quinn, D., Tian, Y. and Tobler, K.
+  link:
+    url: https://doi.org/10.1109/MDAT.2020.3043376
+    display: Final Article (open access)
+  highlight: 0
+
+- title: Flood mitigation in coastal urban catchments using real-time stormwater infrastructure control and reinforcement learning
+  image: blank.jpg
+  description: Journal of Hydroinformatics, 23(3), 529-547, doi:10.2166/hydro.2020.080
+  date: May 2021
+  authors: B. D. Bowes; A. Tavakoli; C. Wang; A. Heydarian; M. Behl; P. A. Beling; J. L. Goodall
+  link:
+    url: https://doi.org/10.2166/hydro.2020.080
+    display: Final Article (open access)
+  highlight: 0
+
+- title: "Impact of geospatial data enhancements for regional-scale 2D hydrodynamic flood modeling: Case study for the Coastal Plain of Virginia"
+  image: blank.jpg
+  description: Journal of Hydrologic Engineering, 26(4), p.05021002, doi:10.1061/(ASCE)HE.1943-5584.0002065
+  date: April 2021
+  authors: Morsy, M.M., Lerma, N.R., Shen, Y., Goodall, J.L., Huxley, C., Sadler, J.M., Voce, D., O’Neil, G.L., Maghami, I. and Zahura, F.T.
+  link:
+    url: https://doi.org/10.1061/(ASCE)HE.1943-5584.0002065
+    display: Final Article (open access)
+  highlight: 0
 
 - title: Toward open and reproducible environmental modeling by integrating online data repositories, computational environments, and model Application Programming Interfaces
   image: blank.jpg
-  description: Environmental Modelling & Software, doi:10.1016/j.envsoft.2020.104888
-  date: In Press
+  description: Environmental Modelling & Software, 135, 104888, doi:10.1016/j.envsoft.2020.104888
+  date: January 2021
   authors: Y. D. Choi, J. L. Goodall, J. M. Sadler, A. M. Castronova, A. Bennett, Z. Li, B. Nijssenc, S. Wang, M. P. Clark, D. P. Ames, J. S. Horsburgh, H. Yi, C. Bandaragoda, M. Seul, R. Hooper, D. G.Tarboton
   link:
     url: https://doi.org/10.1016/j.envsoft.2020.104888
     display: Final Article (open access)
   highlight: 0
 
-- title: Flood mitigation in coastal urban catchments using real-time stormwater infrastructure control and reinforcement learning
-  image: blank.jpg
-  description: Journal of Hydroinformatics, doi:10.2166/hydro.2020.080
-  date: In Press
-  authors: B. D. Bowes; A. Tavakoli; C. Wang; A. Heydarian; M. Behl; P. A. Beling; J. L. Goodall
-  link:
-    url: https://doi.org/10.2166/hydro.2020.080
-    display: Final Article (open access)
-  highlight: 0
+############################
+#2020
+############################
 
 - title: A taxonomy for reproducible and replicable research in environmental modelling
   image: blank.jpg

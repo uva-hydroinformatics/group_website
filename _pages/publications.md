@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Selected Publications
+# Publications
 
- For citation data and an up to date list of all publications, please see Jon Goodall's [Google Scholar Profile](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ). If final papers are published in a journal without open access, the preprint manuscript (the version of the manuscript before final edits and typesetting were completed) is provided in accordance with the copyright license from the journal.
+ For a complete list of publications, please see [Jon Goodall's Google Scholar Profile](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ). Preprints are available for papers not published as open access, in accordance with the copyright license from the journal.
 
 <!--
 ## Highlights
@@ -26,18 +26,18 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <pubtit><strong>{{ publi.title }}</strong></pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong>  
+  <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% if publi.linkpdf %}
   ~  
 {% endif %}
-<strong><a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}
+<a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}
 
-  </a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  </a></p>
+  <p class="text-danger">{{ publi.news1 }}</p>
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
@@ -63,9 +63,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
   <hr>
-  <h5>{{publi.title}}</h5>
+  <h5><b>{{publi.title}}</b></h5>
   <em>{{ publi.authors }}</em><br />
-  <b>{{ publi.description }}</b>, {{publi.date}}<br />
+  {{ publi.description }}, {{publi.date}}<br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% if publi.linkpdf.pdf %} ~  <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {% endif %}
   {{ publi.news2 }}

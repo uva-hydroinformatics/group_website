@@ -11,7 +11,7 @@ img { margin-bottom: 4px;
   background-color: #ffffff !important;
   border-color: #ffffff !important;
   border-bottom-width: thin;
-  margin-bottom: 12px;
+  margin-top: 10px;
 }
 .navbar-brand {
   font-style:normal;
@@ -111,6 +111,7 @@ firstp {
 .col-sm-8, .col-sm-11 {
     text-align: center;
     width: inherit;
+    padding-top: 15px;
 }
 
 /* Grid overrides */
@@ -131,7 +132,7 @@ firstp {
 /* Carusel */
 
 .carousel {
-    width:75%;
+    width:90%;
     align-content: center;
     margin-bottom: 20px;
     margin-top: 20px;

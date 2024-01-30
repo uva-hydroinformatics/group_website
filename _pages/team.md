@@ -6,7 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
+<hr />
 ### Current Team
+<hr />
 {% assign number_printed = 0 %}
 {% for member in site.data.team %}
 
@@ -59,7 +61,9 @@ permalink: /team/
 </div>
 {% endif %}
 
+<hr />
 ### Alumni
+<hr />
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 

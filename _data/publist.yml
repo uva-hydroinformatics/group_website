@@ -16,6 +16,16 @@
 ############################
 #2024
 ############################
+- title: "A geographic information system approach for estimating state-wide water quality credit need: Application for planned transportation projects in Virginia"
+  image: blank.jpg
+  description:  Journal of the American Water Resources Association, 15, 100518, doi:10.1111/1752-1688.13195
+  date: In press
+  authors: Nelson, J.D., Bowes, B.D., Saby, L., Shafiee‐Jood, M. and Goodall, J.L.
+  link:
+    url: https://doi.org/10.1111/1752-1688.13195
+    display: Final Article (open access)
+  highlight: 0
+
 - title: "A comparison of machine learning surrogate models of street-scale flooding in Norfolk, Virginia"
   image: blank.jpg
   description: Machine Learning with Applications, 15, 100518, doi:10.1016/j.mlwa.2023.100518
@@ -43,7 +53,7 @@
   authors: Dong, R., Nelson, J.D., Cummins, S.L., and Goodall, J.L.
   link:
     url: https://doi.org/10.1061/JSWBAY.SWENG-506
-    display: Final Article (open access)
+    display: Final Article 
   linkpdf:
     pdf: https://uvahydroinformatics.org/files/Dong_JSWBE_2024_PrePrint.pdf    
     display: Preprint

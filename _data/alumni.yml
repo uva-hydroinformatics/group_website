@@ -1,5 +1,14 @@
 # Alumni
 
+- name: Ciara Horne, Ph.D. 
+  photo: horne.jpg
+  info: Ph.D., Systems Engineering
+  email: ciarahorne@virginia.edu
+  number_educ: 2
+  education1: Ph.D. Systems Engineering, University of Virginia
+  education2: B.S. Civil Engineering, University of Maryland
+  statement: Ciara’s dissertation research used data science and GIS to measure how the presence of dams and levees affect the flooding vulnerability of marginalized populations in the U.S. and thus contribute to public health and environmental injustices. She is now a postdoc fellow with the US Census. 
+
 - name: Jake Nelson, Ph.D.
   photo: nelson.jpg
   number_educ: 3

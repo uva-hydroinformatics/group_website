@@ -16,29 +16,28 @@
   info: Postdoctoral Research Associate 
   email: rqt5kh@virginia.edu
   number_educ: 3
-  education1: Ph.D. Civil Engineering, Brigham Young University, 2023, Advisor Dr. Norm Jones
-  education2: M.S. Water Resources Engineering, National University of Colombia, 2014
-  education3: B.S. Agricultural Engineering, National University of Colombia, 2009 
+  education1: Ph.D. Civil Engineering, Brigham Young University, Advisor Dr. Norm Jones
+  education2: M.S. Water Resources Engineering, National University of Colombia
+  education3: B.S. Agricultural Engineering, National University of Colombia 
   statement: Sergio’s research is on groundwater resource assessment utilizing remote sensing data and groundwater modeling. He is currently researching hydraulic and hydrologic modeling of urban flooding. 
 
 - name: Victor Ariel Leal Sobral
   photo: sobral.jpg
-  info: Ph.D. Candidate, Computer Engineering
+  info: Postdoctoral Research Associate
   email: vas4d@virginia.edu
   number_educ: 3
-  education1: M.S. Electronics and Applied Physics, ENSICAEN, France
-  education2: B.S. Electronics and Applied Physics, ENSICAEN, France
+  education1: Ph.D. Computer Engineering, University of Virginia
+  education2: B.S. and M.S. Electronics and Applied Physics, ENSICAEN, France
   education3: B.S. Electrical Engineering, Universidade Federal da Bahia, Brazil
-  statement: Victor is working on the design of self-powered IoT systems for industrial, water quality and flood monitoring applications. He is co-advised by Prof. Brad Campbell.
+  statement: Victor is working on the design of sensing and data systems for flood monitoring applications. 
 
 - name: Natalie Lerma
   photo: lerma.jpg
   info: Ph.D. Student, Civil Engineering
   email: nrl5fh@virginia.edu
-  number_educ: 3
+  number_educ: 2
   education1: B.S. Ocean Engineering, Texas A&M University - Galveston
-  education2: B.S. Offshore and Coastal Systems Engineering, Texas A&M University - Galveston 
-  education3: Minors in Mathematics and Maritime Administration, Texas A&M University - Galveston 
+  education2: B.S. Offshore and Coastal Systems Engineering (Minors in Mathematics and Maritime Administration), Texas A&M University - Galveston 
   statement: Natalie is part of the Cyber-Physical Systems NRT program and her research is focusing on coastal urban flooding.
 
 - name: Binata Roy
@@ -55,9 +54,9 @@
   info: Ph.D. Student, Civil Engineering
   email: yw5vq@virginia.edu
   number_educ: 3
-  education1: M.S. Environmental and Water Resources Engineering, The University of Texas at Austin, TX, USA, 2020
-  education2: B.S. Watershed Science, Colorado State University, CO, USA, 2018
-  education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China, 2018
+  education1: M.S. Environmental and Water Resources Engineering, The University of Texas at Austin, TX, USA
+  education2: B.S. Watershed Science, Colorado State University, CO, USA
+  education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China
   statement: Yidi' research is focused on building a real-time flood monitoring system and applying it to enhance flood forecasting in urban environments.
 
 - name: Savannah Lynn
@@ -82,6 +81,14 @@
   info: Ph.D. Student, Civil Engineering 
   email: qkh6cy@virginia.edu
   number_educ: 2
-  education1: M.S. Civil Engineering, Chungnam National University, 2018
-  education2: B.S. Civil Engineering, Chungnam National University, 2010
+  education1: M.S. Civil Engineering, Chungnam National University
+  education2: B.S. Civil Engineering, Chungnam National University
   statement: Jiseon is interested in developing an Artificial Intelligence model for real-time urban inundation forecasting.  
+
+- name: Katarina Liddell
+  photo: liddell.jpg
+  info: Ph.D. Student, Civil Engineering 
+  email: kal4rg@virginia.edu
+  number_educ: 1
+  education2: B.S. Chemical Engineering, University of Virginia
+  statement: Katarina is interested in the impacts of climate change on urban watersheds and investigating how data science and policy can used to improve stormwater management in these areas.

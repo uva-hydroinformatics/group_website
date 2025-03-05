@@ -13,9 +13,83 @@
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
 
+
+############################
+#2025
+############################
+- title: "Forecasting Multi-Step-Ahead Street-Scale nuisance flooding using seq2seq LSTM surrogate model for Real-Time applications in a Coastal-Urban city"
+  image: blank.jpg
+  description:  Journal of Hydrology, 132697, doi:10.1016/j.jhydrol.2025.132697
+  date: 2025
+  authors: Roy, B., Goodall, J. L., McSpadden, D., Goldenberg, S. and Schram, M.
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2025.132697
+    display: Final Article (Open Access)
+  highlight: 0
+
+- title: "Deep learning-based downscaling of global digital elevation models for enhanced urban flood modeling"
+  image: blank.jpg
+  description:  Journal of Hydrology, 653, 132687, doi:10.1016/j.jhydrol.2025.132687
+  date: June 2025
+  authors: Zandsalimi, Z., Barbosa, S. A., Alemazkoor, N., Goodall, J. L. and Shafiee-Jood, M. 
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2025.132687
+    display: Final Article
+  highlight: 0
+
+- title: "Characterizing Stormwater Basin Conditions Using Tracked BMP Inspection and Rating Reports from the Virginia Department of Transportation"
+  image: blank.jpg
+  description:  Journal of Sustainable Water in the Built Environment 11, 04025003, doi:10.1061/JSWBAY.SWENG-599
+  date: May 2025
+  authors: Nelson, J. D., Lynn, S. L. and Goodall, J. L. 
+  link:
+    url: https://doi.org/10.1061/JSWBAY.SWENG-599
+    display: Final Article (Open Access)
+  highlight: 0
+
+- title: "Exploring Infiltration Effects on Coastal Urban Flooding: Insights from Nuisance to Extreme Events Using 2D Hydrodynamic Modeling and Crowdsourced Flood Reports"
+  image: blank.jpg
+  description:  Science of the Total Environment 968, 178908, doi:10.1016/j.scitotenv.2025.178908
+  date: March 2025
+  authors: Barbosa, S. A., Wang, Y. and Goodall, J. L. 
+  link:
+    url: https://doi.org/10.1016/j.scitotenv.2025.178908
+    display: Final Article (Open Access)
+  highlight: 0
+
+- title: "Toward reproducible and interoperable environmental modeling: Integration of HydroShare with server-side methods for exposing large-extent spatial datasets to models"
+  image: blank.jpg
+  description: Environmental Modelling & Software 183, 106239, doi:10.1016/j.envsoft.2024.106239
+  date: January 2025
+  authors: Choi, Y.-D., Maghami, I., Goodall, J. L., Band, L., Nassar, A., Lin, L., Saby, L., Li, Z., Wang, S., Calloway, C., Yi, H., Seul, M., Ames, D. P. and Tarboton, D. G. 
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2024.106239
+    display: Final Article (Open Access)
+  highlight: 0
+
 ############################
 #2024
 ############################
+- title: "Using crowdsourced data to estimate passenger vehicle travel delays from nuisance flooding"
+  image: blank.jpg
+  description: Transportation Research Part D - Transport and Environment 133, 104307, doi:10.1016/j.trd.2024.104307
+  date: August 2024
+  authors: Zahura, F. T., Goodall, J. L. and Chen, T. D. 
+  link:
+    url: https://doi.org/10.1016/j.trd.2024.104307
+    display: Final Article (Open Access)
+  highlight: 0
+
+- title: "Improving Online Community Engagement Practices for Infrastructure Decision-Making: Experiences from Stormwater Infrastructure Management in Houston, Texas, during the COVID-19 Pandemic"
+  image: blank.jpg
+  description: Journal of Infrastructure Systems 30, 05024002, doi:10.1061/JITSE4.ISENG-2322
+  date: September 2024
+  authors: Lerma, N. R., Barnett, M. J., Goodall, J. L. and Heydarian, A. 
+  link:
+    url: https://doi.org/10.1061/JITSE4.ISENG-2322
+    display: Final Article
+  highlight: 0
+
 - title: "Quantifying the Impact of Climate Change on Peak Stream Discharge for Watersheds of Varying Sizes in the Coastal Plain of Virginia"
   image: blank.jpg
   description:  Journal of Hydrologic Engineering, 29(3), doi:10.1061/JHYEFF.HEENG-6114

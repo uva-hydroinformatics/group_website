@@ -67,7 +67,10 @@
   authors: Choi, Y.-D., Maghami, I., Goodall, J. L., Band, L., Nassar, A., Lin, L., Saby, L., Li, Z., Wang, S., Calloway, C., Yi, H., Seul, M., Ames, D. P. and Tarboton, D. G. 
   link:
     url: https://doi.org/10.1016/j.envsoft.2024.106239
-    display: Final Article (Open Access)
+    display: Final Article
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Choi_EMS_2025_PrePrint.pdf    
+    display: Preprint
   highlight: 0
 
 ############################

@@ -1,8 +1,18 @@
 # Alumni
 
+
+- name: Sergio A. Barboda, Ph.D.
+  photo: barboda.jpg
+  email: rqt5kh@virginia.edu
+  number_educ: 4
+  education1: Postdoctoral Researcher, University of Virginia, Environmental Institute
+  education2: Ph.D. Civil Engineering, Brigham Young University, Advisor Dr. Norm Jones
+  education3: M.S. Water Resources Engineering, National University of Colombia
+  education4: B.S. Agricultural Engineering, National University of Colombia 
+  statement: Sergio’s research during his postdoc was on urban-coastal flood modeling exploring the role of rainfall infiltration of flooding impacts. He is currently a hydrologic modeler at the US Department of Energy at the Oak Ridge National Laboratory.
+
 - name: Ciara Horne, Ph.D. 
   photo: horne.jpg
-  info: Ph.D., Systems Engineering
   email: ciarahorne@virginia.edu
   number_educ: 2
   education1: Ph.D. Systems Engineering, University of Virginia
@@ -88,7 +98,7 @@
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
   education3: B.S. Civil Engineering, Wuhan University, China
-  statement: Yawen's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at <a href="https://oneconcern.com/en/">One Concern</a>.
+  statement: Yawen's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at <a href="https://www.corteva.com/">Corteva Agriscience</a>.
 
 - name: Naomi Johnson
   photo: johnson.jpg
@@ -110,7 +120,7 @@
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, University of Virginia
   education3: B.S. Civil Engineering, University of Virginia
-  statement: Gina completed her PhD on data science and machine learning approaches for wetland delineation using LiDAR. She now works for <a href="https://www.esri.com">ESRI</a> in Denver, CO.
+  statement: Gina completed her PhD on data science and machine learning approaches for wetland delineation using LiDAR. She worked at <a href="https://www.esri.com">ESRI</a> following her graduation and is now Associate Director of Environmental Strategies at the Center for Geospatial Solutions in Denver, CO.
 
 - name: Jeff Sadler, Ph.D.
   photo: sadler.jpg
@@ -171,53 +181,53 @@
   photo: hawkins.jpg
   number_educ: 1
   education1: B.S., Engineering, Saint Augustine's University, Raleigh, NC
-  statement: Rodney was a summer research exploring environmental justice issues related to sea level rise and flooding in coastal communities.
+  statement: Rodney was a summer research intern exploring environmental justice issues related to sea level rise and flooding in coastal communities.
 
 - name: Stuart Sheffield
   photo: sheffield.jpg
   number_educ: 1
   education1: M.S, Civil Engineering, University of Virginia, 2016
-  statement: Stuart completed his thesis on creating distributed environmental decision support systems. He is now an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
+  statement: Stuart is now a Project Manager with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
 
 - name: Mehmet Ercan, Ph.D.
   photo: ercan.jpg
   number_educ: 1
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2015
-  statement: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an Assistant Professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
+  statement: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an Assistant Professor at Inonu University in Turkey.
 
 - name: Ben Felton
   photo: felton.jpg
   number_educ: 1
   education1: M.S., Civil Engineering, University of Virginia, 2015
-  statement: Ben completed his MS thesis on GIS and remote sensing approaches for wetland screening. He is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
+  statement: Ben completed his MS thesis on GIS and remote sensing approaches for wetland screening. He is now a Senior Principal Engineer with with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Alicia Nobles, Ph.D.
   photo: nobles.jpg
   number_educ: 2
   education1: M.S., Civil Engineering, University of Virginia, 2014
   education2: B.S., Civil Engineering, Georgia Tech
-  statement: Alicia completed her M.S. thesis in civil engineering and then a Ph.D. in Systems and Information Engineering at the University of Virginia with Prof Barnes. She is now a an Assistant Professor at UC-San Diego.
+  statement: Alicia completed her M.S. thesis in civil engineering and then a Ph.D. in Systems and Information Engineering at the University of Virginia with Prof Barnes. She is now a a product and data leader in Walmart's pharmacy operations.
 
 - name: Md. Jahangir Alam, Ph.D.
   photo: alam.jpg
   number_educ: 2
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
   education2: B.S., Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
-  statement: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
+  statement: Alam was an engineer with Arcadis after completing his PhD degree and is now a Senior Principal Engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Phillis Mbewe
   photo: mbewe.jpg
   number_educ: 2
   education1: M.E., Civil Engineering, University of South Carolina-Columbia, 2013
   education2: B.S., Civil Engineering, Duke University
-  statement: Phillis is an engineer with <a href="https://www.lja.com">LJA Engineering, Inc</a>.
+  statement: Phillis is a Senior Project Manager for Hydrology and HyHydraulics with <a href="https://www.lja.com">LJA Engineering, Inc</a>.
 
 - name: Mirza Billah, Ph.D.
   photo: billah.jpg
   number_educ: 2
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
   education2: B.S., Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
-  statement: Mirza completed a postdoc at Virginia Tech and is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
+  statement: Mirza completed a postdoc at Virginia Tech and is now a Senior Engineer with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
 
 - name: Mostafa Elag, Ph.D.
   photo: elag.jpg
@@ -225,11 +235,11 @@
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
   education2: M.S., Civil Engineering, Cairo University, Egypt
   education3: B.S., Civil Engineering, Cairo University, Egypt
-  statement: Mostafa completed a postdoc at UIUC and is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>.
+  statement: Mostafa completed a postdoc at UIUC and is now a Water and Wastewater Planning Manager at <a href="https://www.wsscwater.com/">WSSC Water</a>.
 
 - name: Tony Castronova, Ph.D.
   photo: castronova.jpg
   number_educ: 2
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia
   education1: B.S., Civil Engineering, Clarkson University
-  statement: Tony was a Research Assistant Professor at Utah State University and is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>.
+  statement: Tony was a Research Assistant Professor at Utah State University after graduation and is now a Senior Research Hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>.

@@ -33,8 +33,11 @@
   date: June 2025
   authors: Zandsalimi, Z., Barbosa, S. A., Alemazkoor, N., Goodall, J. L. and Shafiee-Jood, M. 
   link:
-    url: https://doi.org/10.1016/j.jhydrol.2025.132687
-    display: Final Article
+    url: https://doi.org/10.1061/JSWBAY.SWENG-506
+    display: Final Article 
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Zandsalimi_JofH_2025_PrePrint.pdf    
+    display: Preprint
   highlight: 0
 
 - title: "Characterizing Stormwater Basin Conditions Using Tracked BMP Inspection and Rating Reports from the Virginia Department of Transportation"
@@ -88,6 +91,9 @@
   link:
     url: https://doi.org/10.1061/JITSE4.ISENG-2322
     display: Final Article
+  linkpdf:
+    pdf: https://uvahydroinformatics.org/files/Lerma_JoIS_2024_PrePrint.pdf    
+    display: Preprint
   highlight: 0
 
 - title: "Quantifying the Impact of Climate Change on Peak Stream Discharge for Watersheds of Varying Sizes in the Coastal Plain of Virginia"

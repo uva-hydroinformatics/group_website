@@ -39,7 +39,7 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <p> {{ member.education1 }} </li>
+  <p> {{ member.education1 }} </br>
   {{ member.education2 }} <br />
   {{ member.education3 }} <br />
   {{ member.education4 }} </p>

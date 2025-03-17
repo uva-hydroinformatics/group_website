@@ -20,10 +20,20 @@
 - title: "Forecasting Multi-Step-Ahead Street-Scale nuisance flooding using seq2seq LSTM surrogate model for Real-Time applications in a Coastal-Urban city"
   image: blank.jpg
   description:  Journal of Hydrology, 132697, doi:10.1016/j.jhydrol.2025.132697
-  date: 2025
+  date: August 2025
   authors: Roy, B., Goodall, J. L., McSpadden, D., Goldenberg, S. and Schram, M.
   link:
     url: https://doi.org/10.1016/j.jhydrol.2025.132697
+    display: Final Article (Open Access)
+  highlight: 0
+
+- title: "Quantifying the impact of nuisance flooding on urban coastal communities under present and future climatic conditions: Norfolk, Virginia as a case study"
+  image: blank.jpg
+  description:  Journal of Hydrology -- Regional Studies, 59, 102304, doi:10.1016/j.ejrh.2025.102304
+  date: June 2025
+  authors: Roy, B., Goodall, J. L., McSpadden, D., Goldenberg, S. and Schram, M.
+  link:
+    url: https://doi.org/10.1016/j.ejrh.2025.102304
     display: Final Article (Open Access)
   highlight: 0
 
